@@ -1,15 +1,15 @@
-# Contribution [#]: [Issue Title]
+# Contribution [#]: 8324 Form Submit button, Ctrl+Enter, and Shift+Enter all have different behavior
 
-**Contribution Number:** [1 / 2 / 3]  
-**Student:** [Your Name]  
-**Issue:** [GitHub issue link]  
-**Status:** [Phase I / Phase II / Phase III / Phase IV] [In Progress / Complete]
+**Contribution Number:** 1  
+**Student:** Kaiya Roberts  
+**Issue:**   https://github.com/marimo-team/marimo/issues/8324
+**Status:** Phase I [Complete] , Phase II [In Progress]
 
 ---
 
 ## Why I Chose This Issue
 
-[1-2 paragraphs explaining why this issue interests you, how it matches your skills/learning goals, what you hope to learn]
+I this chose this issue #8324 because it aligns with my foundational experience in Python and my strong and newly developed interest in web development. While Marimo is fundamentally a reactive notebook environment built for the Python ecosystem, its user experience relies highly on frontend architecture. This issue provides the opportunity to examine how user-facing UI controls (like form components and keystroke listeners) communicate states smoothly back to a reactive Python kernel execution layer. One of the main focuses on my career are to bridge the gap between the user and the technological experience. 
 
 ---
 
@@ -17,7 +17,7 @@
 
 ### Problem Description
 
-[In your own words, what's broken or missing?]
+which addresses inconsistent lifecycle behaviors across different form submission gestures
 
 ### Expected Behavior
 
